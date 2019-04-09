@@ -1,0 +1,5 @@
+{
+  "description": "Redshift real-time events writer",
+  "runtime": "python3.6",
+  "handler": "index.handler"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "aws-data-processing",
+  "description": "",
+  "runtime": "python3.7",
+  "memory": 384,
+  "timeout": 300,
+  "role": "arn:aws:iam::942470000196:role/aws-data-processing_lambda_function"
+}

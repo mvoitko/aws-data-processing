@@ -1,0 +1,5 @@
+{
+  "description": "Process data",
+  "runtime": "python3.7",
+  "handler": "index.handler"
+}
